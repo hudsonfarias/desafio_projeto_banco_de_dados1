@@ -26,7 +26,11 @@ inserção de dados nas tabelas (SQL) e criar consultas SQL para retornar inform
 ## 📌 Minhas Entregas
 ### Links
 [Arquivo .mwb - Esquema Relacional](https://github.com/hudsonfarias/desafio_projeto_banco_de_dados1/blob/main/Desafio%20de%20Projeto%20-%20Ecommerce.mwb)
+
 [Esquema Relacional - SQL](https://github.com/hudsonfarias/desafio_projeto_banco_de_dados1/blob/main/Esquema_Relacional_BD_SQL_DesafioDeProjeto.sql)
+
 [Inserção Dados - SQL](https://github.com/hudsonfarias/desafio_projeto_banco_de_dados1/blob/main/Inser%C3%A7%C3%A3o_de_dados_SQL_DesafioDeProjeto.sql)
+
 [Consultas SQL](https://github.com/hudsonfarias/desafio_projeto_banco_de_dados1/blob/main/Querys_SQL_DesafioDeProjeto.sql
+
 [Foto do Esquema Relacional](https://github.com/hudsonfarias/desafio_projeto_banco_de_dados1/blob/main/Schema_relacional_DesafioDeProjeto.png)
